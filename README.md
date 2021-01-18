@@ -38,5 +38,3 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=chulas21&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 <br />
-
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloJBlanco&langs_count=5&theme=tokyonight)]()
