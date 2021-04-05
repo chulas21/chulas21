@@ -1,6 +1,6 @@
 ### Hi there, my name is Francisco Prato 👋
 
-<p><em>I am a <strong> Full Stack Web Developer</strong> on formation from Henry, which is a new bootcamp in Argentina. I have experience in HTML, CSS, React, Redux, Bootstrap, Node.js, Sequelize ORM, Express.js & PostgreSQL. Looking for use my acquired knowledge in meaningful projects where i can grow both as a person as on the working environment.</em></p>
+<p><em>I am a <strong> Full Stack Web Developer</strong> graduated from Henry, which is a new bootcamp in Argentina. I have experience in HTML, CSS, React, Redux, Bootstrap, Node.js, Sequelize ORM, Express.js & PostgreSQL. Looking for use my acquired knowledge in meaningful projects where i can grow both as a person as on the working environment.</em></p>
 
 ----------------------------------------------------------------------------------------------------------------------
 
