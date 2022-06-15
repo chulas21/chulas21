@@ -6,7 +6,6 @@
 
 - 🔭 I’m currently working on <strong>Nefro</strong>
 - 🌱 I’m currently learning Angular, Firebase Suite, Google Docs for web Development, Graphic Design orientated to Web Development.
-- 📫  How to reach me: prattofrancisko@gmail.com
 - [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/franprato21/) LinkedIn
 - ⚡ Fun fact: On my free time I’m a Dj and I love to play guitar
 
